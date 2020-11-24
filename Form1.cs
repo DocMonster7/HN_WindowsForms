@@ -17,5 +17,9 @@ namespace HN_WindowsForm
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
